@@ -1,3 +1,5 @@
+body { padding-top:60px; }
+
 @media (max-width: 480px) {
 	.borda_colorida { border:1px #F00 dotted; }	
 }
@@ -16,4 +18,3 @@
 
 .bg_cinza { background:#CCC; }
 .bg_escuro { background:#666; }
-
